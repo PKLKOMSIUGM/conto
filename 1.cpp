@@ -5,7 +5,7 @@ using namespace std;
 double f(double x,double h0){
    return h0 - pow(x,2);
 }
-double error;
+double error;haha;
 double getSec(double xa, double xb, double toleransi, int maxIterasi, double h){
     int iterasi=0;
     double xc=1;
