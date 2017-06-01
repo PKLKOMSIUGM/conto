@@ -1,5 +1,4 @@
 #include<iostream>
-#include<math.h>
 using namespace std;
 
 double f(double x,double h0){
