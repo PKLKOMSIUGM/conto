@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+#include<conio.h>
 using namespace std;
 
 double f(double x,double h0){
