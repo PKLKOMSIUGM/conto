@@ -19,6 +19,8 @@ double getSec(double xa, double xb, double toleransi, int maxIterasi, double h){
     return xb;
 }
 
+//coba tambahin ya
+
 int main(){
 	double h, double x;
     double xa=0;
