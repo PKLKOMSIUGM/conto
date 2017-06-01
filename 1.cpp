@@ -19,7 +19,7 @@ double getSec(double xa, double xb, double toleransi, int maxIterasi, double h){
     return xb;
 }
 
-//coba tambahin ya
+//coba tambahin ya yaaa
 
 int main(){
 	double h, double x;
